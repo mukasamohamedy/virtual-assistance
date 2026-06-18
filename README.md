@@ -30,5 +30,5 @@ A Python-based voice-controlled Virtual Assistant that can perform various tasks
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/virtual-assistant-ai.git
+git clone git@github.com:mukasamohamedy/virtual-assistance.git
 cd virtual-assistant-ai
